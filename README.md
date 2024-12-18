@@ -8,53 +8,32 @@
 Проект для Visual Studio
 Исходный код и все необходимые библиотеки (для OpenGL/GLFW и др.).
  
-Релизные сборки
+### Релизные сборки
 Если вы хотите просто запустить приложение, в папке bin вы найдете исполняемые файлы для x86/x64 ОС.
  
- ### Project for Visual Stuido
-  If you want open project in Visual Studio, just open the file DiamondEngine.vcxproj
+ ### Проект для Visual Stuido
+  Если вы хотите открыть проект в Visual Studio, просто откройте файл DiamondEngine.exe
   
- ### Another way
-  You can also create a new project using code and libraries from this repository.
-  
-  ## Preview
-   #### STATIC CAM
-   Press SPACE to enable STATIC CAM mode.<br>
-   Use WASD to move around the solar system model, and use the mouse with the right button pressed to rotate the model.
+  ## Превью
+   #### СТАТИЧЕСКАЯ КАМЕРА
+   Нажмите SPACE, чтобы включить режим СТАТИЧЕСКОЙ КАМЕРЫ.
+   Используйте WASD для перемещения по модели Солнечной системы, а мышь с зажатой правой кнопкой — для вращения модели.
       
   ![alt text](https://i.ibb.co/Gx4xGKC/1.png)
   
-   #### FREE CAM
+   #### СВОБОДНАЯ КАМЕРА
    
-   Press F1 to enable FREE CAM mode.<br>
-   Use WASD and mouse to fly the solar system model.
+   Нажмите F1, чтобы включить режим СВОБОДНОЙ КАМЕРЫ.
+   Используйте WASD и мышь для перемещения по модели Солнечной системы.
    
   ![alt text](https://i.ibb.co/y0PyR8P/2.png)
   
-   #### PLANET CAM
+   #### КАМЕРА ПЛАНЕТЫ
    
-   PRESS 1...8(for choose a planet) to enable PLANET CAM mode.<br>
-   You can see a brief information about the planet in the upper left corner of the screen.
+   Нажмите 1-8 (для выбора планеты), чтобы включить режим КАМЕРЫ ПЛАНЕТЫ.
+   Вы увидите краткую информацию о планете в верхнем левом углу экрана.
    
   ![alt text](https://i.ibb.co/q5xPK3R/3.png)
  
    #### SkyBox
-   Press E to change skybox
-   
- ## Built With
-
-* [OpenGL](https://www.opengl.org/) - The Graphics Library used
-* [GLAD](https://glad.dav1d.de/) - Multi-Language GL/GLES/EGL/GLX/WGL Loader-Generator used
-* [GLFW](https://www.glfw.org/) - Used to creating windows, contexts and surfaces, receiving input and events.
-* [FREETYPE](https://www.freetype.org/) - Used to render fonts.
-* [GLM](https://glm.g-truc.net/0.9.9/index.html) - Mathematics Library used
-
-## Resources
-
-* [Textures](https://cosmos-online.ru/textures) - Textures used
-* [Tutorials](https://learnopengl.com/) - Awesome tutorials about OpenGL
-* [Default SkyBox](http://www.custommapmakers.org/skyboxes.php) [Blue SkyBox](https://opengameart.org/content/space-skyboxes-0) - SkyBoxes used
-* [Font](https://www.fonts-online.ru/font/Korataki-Italic) - Font used ([Font author](http://typodermicfonts.com/))
-
-## LICENSE
-This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/1kar/OpenGL-SolarSystem/blob/master/LICENSE) file for details
+   Нажмите E, чтобы сменить SkyBox.
