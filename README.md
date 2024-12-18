@@ -6,10 +6,10 @@
 
 Релизные сборки для x86/x64 ОС
 Проект для Visual Studio
-Исходный код и все необходимые библиотеки (для OpenGL/GLFW и др.), если вы хотите создать свой собственный проект.
+Исходный код и все необходимые библиотеки (для OpenGL/GLFW и др.).
  
- ### Release builds
-  If you just want to run the application, in the bin folder you will find executable files for x86/x64 OS
+Релизные сборки
+Если вы хотите просто запустить приложение, в папке bin вы найдете исполняемые файлы для x86/x64 ОС.
  
  ### Project for Visual Stuido
   If you want open project in Visual Studio, just open the file DiamondEngine.vcxproj
